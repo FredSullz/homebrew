@@ -3,16 +3,19 @@
         <name>Dhampir</name>
         <description/>
         <author url="https://www.dndbeyond.com/races/1931-dhampir">The Dhampir Race by DefenderEchoaz</author>
-        <update version="0.1">
+        <update version="0.0.2">
             <file name="dhampir.xml" url="https://raw.githubusercontent.com/FredSullz/homebrew/main/Dhampir.xml"/>
         </update>
     </info>
     <element name="Dhampir" type="Race" source="Homebrew" id="ID_RACE_DHAMPIR">
         <description>
             <p class="flavor">
-                Flavortext here
+                Tall and slender and with well-defined musculature, dhampirs look like statuesque humans of unearthly beauty. Their hair, eye, and skin color resemble unnerving versions of their mothers'; many possess a ghastly pallor, particularly in the sunlight, while those with dark complexions often possess skin the color of a bruise.
             </p>
-            <h4>HEADER HERE</h4>
+            <p class="flavor">
+                While many dhampirs can pass as humans in ideal conditions, their features are inevitably more pronounced and they move with an unnaturally fluid grace. All dhampirs have elongated incisors.
+            </p>
+            <h4>SOCIETY</h4>
             <p>
                 More flavortext
             </p>

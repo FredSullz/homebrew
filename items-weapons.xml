@@ -1,0 +1,17 @@
+<elements>
+    <info>
+        <name>Homebrew Weapons</name>
+        <description></description>
+        <author ulr="">FredSullz</author>
+        <update version="0.0.1">
+            <file name="items-weapons.xml" url="https://raw.githubusercontent.com/FredSullz/homebrew/main/items-weapons.xml"/>
+        </update>
+    </info>
+    <element name="Kazimir's Dagger of Hatred" type="Magic Item" source="Homebrew" id="ID_MAGIC_ITEM_KAZIMIRS_DAGGER_OF_HATRED">
+        <description>
+            <p>A beautiful obsidian dagger with a dark red opal embedded in the hilt. The opal glows faintly red when attuned.</p>
+            <p>You have a +3 bonus to attack and damage rolls made with this magic weapon</p>
+            
+        </description>
+    </element>
+</elements>

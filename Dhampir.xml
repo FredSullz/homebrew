@@ -3,7 +3,9 @@
         <name>Dhampir</name>
         <description/>
         <author url="https://www.dndbeyond.com/races/1931-dhampir">The Dhampir Race by DefenderEchoaz</author>
-        <update version>
+        <update version="0.1">
+            <file name="dhampir.xml" url="https://raw.githubusercontent.com/FredSullz/homebrew/main/Dhampir.xml"/>
+        </update>
     </info>
     <element name="Dhampir" type="Race" source="Homebrew" id="ID_RACE_DHAMPIR">
         <description>

@@ -3,7 +3,7 @@
         <name>Homebrew Weapons</name>
         <description></description>
         <author ulr="">FredSullz</author>
-        <update version="0.0.1">
+        <update version="0.0.2">
             <file name="items-weapons.xml" url="https://raw.githubusercontent.com/FredSullz/homebrew/main/items-weapons.xml"/>
         </update>
     </info>

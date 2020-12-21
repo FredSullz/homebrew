@@ -30,22 +30,4 @@
             <set name="name-format">Kazimir's Dagger of Hatred</set>
         </setters>
     </element>
-    <element name="Blade of the Seraph" type="Magic Item" source="Homebrew" id="ID_MAGIC_ITEM_HOMEBREW_SERAPH_BLADE">
-        <description>
-            <p>A blade forged from celestial steel, granted only to a select few, who had been chosen to hunt any fiend who sets foot on the material plane. These chosen have long been thought extinct, though their blades, untouched by time, still remain where such a being might have fallen. It is unknown what creatures wielded these blades, though many speculate the Aasimar might be descendants of the original chosen. The design of the blade varies greatly, with the most common ones being shortswords.</p>
-            <p>You have a +1 bonus to attack and damage rolls made with this magic weapon.</p>
-            <p>While attuned, attacks made with this weapon deal an additional 1d6 radiant damage while attacking a fiend.</p>
-        </description>
-        <setters>
-            <set name="keywords">sword</set>
-            <set name="category">Magic Weapons</set>
-            <set name="cost" currency="gp">0</set>
-            <set name="type" addition="any sword">Weapon</set>
-            <set name="attunement">true</set>
-            <set name="rarity">Rare</set>
-            <set name="enhancement">1</set>
-            <set name="weapon">ID_INTERNAL_WEAPON_GROUP_SWORDS</set>
-            <set name="name-format">Blade of the Seraph</set>
-        </setters>
-    </element>
 </elements>

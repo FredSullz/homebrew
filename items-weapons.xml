@@ -1,0 +1,33 @@
+<elements>
+    <info>
+        <name>Homebrew Weapons</name>
+        <description></description>
+        <author ulr="">FredSullz</author>
+        <update version="0.0.1">
+            <file name="items-weapons.xml" url="https://raw.githubusercontent.com/FredSullz/homebrew/main/items-weapons.xml"/>
+        </update>
+    </info>
+    <element name="Kazimir's Dagger of Hatred" type="Magic Item" source="Homebrew" id="ID_MAGIC_ITEM_KAZIMIRS_DAGGER_OF_HATRED">
+        <description>
+            <p>A beautiful obsidian dagger with a dark red opal embedded in the hilt. The opal glows faintly red when attuned.</p>
+            <p>You have a +3 bonus to attack and damage rolls made with this magic weapon</p>
+            <p>While attuned, you gain certain bonuses while attacking enemies of a different race than your own with this weapon.</p>
+            <p class="indent">You have advantage on attack rolls.</p>
+            <p class="indent">You deal an extra 1d8 necrotic damage.</p>
+            <p class="indent">On a critical hit, the target must succeed on a constitution saving throw or be petrified for an hour.</p>
+            <p class="indent">If you are a Dhampir, an attack roll of 25 or higher (after bonuses) is considered a crit.</p>
+            <p class="indent"><strong><em>Curse.</em></strong>While attuned, a slow hatred will build towards any humanoid creature of another race that you spend a prolonged time with. Every 24 hours make a wisdom saving throw (DC 18) or increase your hatred by one step towards that creature. For each step the opal glows slightly stronger.</p>
+        </description>
+        <setters>
+            <set name="keywords">dagger</set>
+            <set name="category">Magic Weapons</set>
+            <set name="cost" currency="gp">0</set>
+            <set name="type" addition="dagger">Weapon</set>
+            <set name="attunement">true</set>
+            <set name="rarity">Artifact</set>
+            <set name="enhancement">3</set>
+            <set name="weapon">Dagger</set>
+            <set name="name-format">Kazimir's Dagger of Hatred</set>
+        </setters>
+    </element>
+</elements>

@@ -17,6 +17,16 @@
             <p class="indent">On a critical hit, the target must succeed on a constitution saving throw or be petrified for an hour.</p>
             <p class="indent">If you are a Dhampir, an attack roll of 25 or higher (after bonuses) is considered a crit.</p>
             <p class="indent"><strong><em>Curse.</em></strong>While attuned, a slow hatred will build towards any humanoid creature of another race that you spend a prolonged time with. Every 24 hours make a wisdom saving throw (DC 18) or increase your hatred by one step towards that creature. For each step the opal glows slightly stronger.</p>
+            <table>
+				<thead><tr><td>Hatred Level</td><td>Feeling</td><td>Effect</td></tr></thead>
+				<tbody>
+					<tr><td>1</td><td>Distrust</td><td>You lose all trust in the creature, and will argue that they be removed from any position of leadership, though not directly to their face.</td></tr>
+					<tr><td>2</td><td>Mild Disgust</td><td>You feel nauseous when looking at the creature, and your ears hurt when they speak. You try to stay clear of them whenever possible.</td></tr>
+					<tr><td>3</td><td>Animosity</td><td>They no longer feel like a partner/companion/friend to you and more like a forced collaborator. You will try to exclude them from all plans and put them in the most unimportant or dangerous position when included.</td></tr>
+					<tr><td>4</td><td>Hostility</td><td>You think they should be removed from your group. You will try to convince other group members to abandon or turn on them.</td></tr>
+					<tr><td>5</td><td>True Hatred</td><td>You hate everything about the creature. Whenever they talk to you it feels like indirect insults, and if they get too close they will get stabbed.</td></tr>
+                </tbody>
+			</table>
         </description>
         <setters>
             <set name="keywords">dagger, curse</set>

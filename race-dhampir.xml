@@ -7,7 +7,7 @@
             <file name="race-dhampir.xml" url="https://raw.githubusercontent.com/FredSullz/homebrew/main/race-dhampir.xml"/>
         </update>
     </info>
-    <element name="Dhampir" type="Race" source="Homebrew" id="ID_RACE_DHAMPIR">
+    <element name="Dhampir" type="Race" source="Homebrew" id="ID_HOMEBREW_RACE_DHAMPIR">
         <description>
             <p class="flavor">
                 Tall and slender and with well-defined musculature, dhampirs look like statuesque humans of unearthly beauty. Their hair, eye, and skin color resemble unnerving versions of their mothers'; many possess a ghastly pallor, particularly in the sunlight, while those with dark complexions often possess skin the color of a bruise.
